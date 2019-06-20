@@ -9,4 +9,4 @@ Icp 4 Github Link:https://github.com/sushmamanne/Web_Cloud_Mobile_Programming/tr
 
 Icp 5 Github Link:https://github.com/sushmamanne/Web_Cloud_Mobile_Programming/tree/master/Web_Cloud/ICP5
 
-ICP 6 Github Link: https://github.com/sushmamanne/Web_Cloud_Mobile_Programming/tree/master/Web_Cloud/ICP6
+Icp 6 Github Link: https://github.com/sushmamanne/Web_Cloud_Mobile_Programming/tree/master/Web_Cloud/ICP6
