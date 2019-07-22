@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/7f5d35c6eb0e4937297a96dcbd711dda7645a2a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46ce19c820f19f848750a0478510761a47d05d02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/d782db6a609d922c3fdb0c7dac0b531238ca19fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8749c7f0dfd0520fb0b94da50fdb91cb39017ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/9ee7d5342f18c279cbb08a76947df6ffcdf8573b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12f1378c4a279e1456ad268960283eaa623cd331/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/1a56254aa1c4ca80256637229d832d1a8a5b1476/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_868b5cc065fc6f0d637b901c0f0cd7d049fd88de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/5e12f5672a6c274705aada871e0ee003623f5ff0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39c92b8492638631e35ae711369aeeb2ece49f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/862ab2d2874e753fa1ef79301e8ba04bad167156/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7479106fb7218e0cd5edcfcffb99ce01bbc290d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/2516f2761d4c13179d60f846ddfaa672580f9218/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89c10f11d5cd4d8343e1b5fd92bf0ebdcf3f2fa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/3a2ae3ec20650f3e7bcb18b1ec4c4b554c5c40d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30a6809675a1085dde6a363f2eb92afa1d041683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/ab43a926dcd471cc8a5f1080f51e805f9436f59c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6b4790069f3d50c0c1c32f0c2d03cc3f627ba3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_20a8f41b120293acff1074ae57cd12d60859c626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/948274660fea156a8998b971fc74bea09e0af0dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a70505be6bbc12819daef47bfbd9c50f6950370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f9690232b4410016be3d0b63b78235d14e577523">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8c1fcf1d792ffab1ebc5ac3857d1ec44584a6145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/f98960eb98e721e8a746b62671e82ec7a9174bfd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05bdc364ed741cba9304b6a10355bf1af3b4197d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/450a13847aa4c0442d687932db3e5a19dbdc2dae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9392171e55935402dbe5c85e2b44f1efff689d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/2c6f0f56c624d8294a04bb840db1976dd50408ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0098d0d9afb82847b8f7964aa51aaa9aeef24918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/74b6bf3042e57048c72e4d033cfd2d09afb4d03d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f8015e2ea6a19e0297216636ad45fa127a7a5f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a8dfde8b149db2aa86141b4c10de3d1269ecc9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/srividyavaranasi/.android/build-cache/b9f1d239f4380392ef5f8c3f07aafdca85f60db0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/srividyavaranasi/AndroidStudioProjects/GoogleMaps-Directions-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16fc43e75523a0c480b171951171d6b3b9a6ff29/classes.dex" />
+    </item>
+
+</items>
